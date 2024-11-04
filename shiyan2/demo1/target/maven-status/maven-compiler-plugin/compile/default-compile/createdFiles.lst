@@ -1,3 +1,6 @@
 com/example/AmtStatistics$TokenizerMapper.class
+com/example/Task2.class
 com/example/AmtStatistics.class
 com/example/AmtStatistics$SumReducer.class
+com/example/Task2$AvgReducer.class
+com/example/Task2$AvgMapper.class
