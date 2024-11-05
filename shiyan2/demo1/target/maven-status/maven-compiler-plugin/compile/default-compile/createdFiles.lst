@@ -1,6 +1,10 @@
-com/example/AmtStatistics$TokenizerMapper.class
-com/example/Task2.class
 com/example/AmtStatistics.class
 com/example/AmtStatistics$SumReducer.class
 com/example/Task2$AvgReducer.class
+com/example/Task3$UserActiveDays.class
+com/example/AmtStatistics$TokenizerMapper.class
+com/example/Task3$ActiveDaysReducer.class
+com/example/Task3.class
+com/example/Task2.class
+com/example/Task3$ActiveDaysMapper.class
 com/example/Task2$AvgMapper.class
